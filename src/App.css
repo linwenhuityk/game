@@ -1,0 +1,9 @@
+/* App.css - customized for Pixel Quiz layout if needed */
+/* Most styles are in index.css global */
+#root {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
