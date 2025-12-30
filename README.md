@@ -49,7 +49,7 @@ This repository includes a GitHub Action to automatically deploy the game to Git
    - `VITE_PASS_THRESHOLD`: (Optional, e.g. 3)
    - `VITE_QUESTION_COUNT`: (Optional, e.g. 5)
 5. Go to **Settings > Pages**.
-   - Build and deployment source: **GitHub Actions**.
+   - **Build and deployment > Source**: Select **GitHub Actions** (beta).
 6. Push a change to `main` or manually run the workflow from the **Actions** tab.
 
 The game will be live at `https://<your-username>.github.io/<repo-name>/`.
